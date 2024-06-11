@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TemplateApiProject.Infrastructure.Data/1.0.0": {
+        "runtime": {
+          "TemplateApiProject.Infrastructure.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TemplateApiProject.Infrastructure.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

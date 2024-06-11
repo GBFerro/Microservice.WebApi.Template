@@ -1,0 +1,12 @@
+C:\repos\TemplateApiProject\src\Infrastructure.Service\bin\Debug\net8.0\TemplateApiProject.Infrastructure.Service.deps.json
+C:\repos\TemplateApiProject\src\Infrastructure.Service\bin\Debug\net8.0\TemplateApiProject.Infrastructure.Service.dll
+C:\repos\TemplateApiProject\src\Infrastructure.Service\bin\Debug\net8.0\TemplateApiProject.Infrastructure.Service.pdb
+C:\repos\TemplateApiProject\src\Infrastructure.Service\obj\Debug\net8.0\TemplateApiProject.Infrastructure.Service.csproj.AssemblyReference.cache
+C:\repos\TemplateApiProject\src\Infrastructure.Service\obj\Debug\net8.0\TemplateApiProject.Infrastructure.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\TemplateApiProject\src\Infrastructure.Service\obj\Debug\net8.0\TemplateApiProject.Infrastructure.Service.AssemblyInfoInputs.cache
+C:\repos\TemplateApiProject\src\Infrastructure.Service\obj\Debug\net8.0\TemplateApiProject.Infrastructure.Service.AssemblyInfo.cs
+C:\repos\TemplateApiProject\src\Infrastructure.Service\obj\Debug\net8.0\TemplateApiProject.Infrastructure.Service.csproj.CoreCompileInputs.cache
+C:\repos\TemplateApiProject\src\Infrastructure.Service\obj\Debug\net8.0\TemplateApiProject.Infrastructure.Service.dll
+C:\repos\TemplateApiProject\src\Infrastructure.Service\obj\Debug\net8.0\refint\TemplateApiProject.Infrastructure.Service.dll
+C:\repos\TemplateApiProject\src\Infrastructure.Service\obj\Debug\net8.0\TemplateApiProject.Infrastructure.Service.pdb
+C:\repos\TemplateApiProject\src\Infrastructure.Service\obj\Debug\net8.0\ref\TemplateApiProject.Infrastructure.Service.dll

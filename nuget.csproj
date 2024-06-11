@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<IncludeContentInPack>true</IncludeContentInPack>
+		<IncludeBuildOutput>false</IncludeBuildOutput>
+		<ContentTargetFolders>content</ContentTargetFolders>
+		<EnableDefaultItems>false</EnableDefaultItems>
+		<NoDefaultExcludes>true</NoDefaultExcludes>
+		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+		<PackageOutputPath>.</PackageOutputPath>
+		<IsPackable>true</IsPackable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Content Include="src\**\*" Exclude="**\bin\**\*;**\obj\**\*" />
+		<Compile Remove="**\*" />
+	</ItemGroup>
+
+	<PropertyGroup>
+		<PackageType>Template</PackageType>
+		<Version>1.0</Version>
+		<PackageId>WebApiMS.Template</PackageId>
+		<Title>Web Api MicroService Template</Title>
+		<Authors>Gferro</Authors>
+		<Copyright>Gferro</Copyright>
+		<Description>A ready-to-use web api microservice template</Description>
+		<PackageTags>c#;api;ms</PackageTags>
+		<PackageCopyright>Gferro © 2024</PackageCopyright>
+		<PackageProjectUrl>https://github.com/GBFerro/WebApi.Microservice.Template</PackageProjectUrl>
+		<RepositoryType>git</RepositoryType>
+		<RepositoryUrl>https://github.com/GBFerro/WebApi.Microservice.Template</RepositoryUrl>
+	</PropertyGroup>
+</Project>

@@ -1,0 +1,11 @@
+C:\repos\TemplateApiProject\src\CrossCutting.Exceptions\bin\Debug\net8.0\TemplateApiProject.CrossCutting.Exceptions.deps.json
+C:\repos\TemplateApiProject\src\CrossCutting.Exceptions\bin\Debug\net8.0\TemplateApiProject.CrossCutting.Exceptions.dll
+C:\repos\TemplateApiProject\src\CrossCutting.Exceptions\bin\Debug\net8.0\TemplateApiProject.CrossCutting.Exceptions.pdb
+C:\repos\TemplateApiProject\src\CrossCutting.Exceptions\obj\Debug\net8.0\TemplateApiProject.CrossCutting.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\TemplateApiProject\src\CrossCutting.Exceptions\obj\Debug\net8.0\TemplateApiProject.CrossCutting.Exceptions.AssemblyInfoInputs.cache
+C:\repos\TemplateApiProject\src\CrossCutting.Exceptions\obj\Debug\net8.0\TemplateApiProject.CrossCutting.Exceptions.AssemblyInfo.cs
+C:\repos\TemplateApiProject\src\CrossCutting.Exceptions\obj\Debug\net8.0\TemplateApiProject.CrossCutting.Exceptions.csproj.CoreCompileInputs.cache
+C:\repos\TemplateApiProject\src\CrossCutting.Exceptions\obj\Debug\net8.0\TemplateApiProject.CrossCutting.Exceptions.dll
+C:\repos\TemplateApiProject\src\CrossCutting.Exceptions\obj\Debug\net8.0\refint\TemplateApiProject.CrossCutting.Exceptions.dll
+C:\repos\TemplateApiProject\src\CrossCutting.Exceptions\obj\Debug\net8.0\TemplateApiProject.CrossCutting.Exceptions.pdb
+C:\repos\TemplateApiProject\src\CrossCutting.Exceptions\obj\Debug\net8.0\ref\TemplateApiProject.CrossCutting.Exceptions.dll

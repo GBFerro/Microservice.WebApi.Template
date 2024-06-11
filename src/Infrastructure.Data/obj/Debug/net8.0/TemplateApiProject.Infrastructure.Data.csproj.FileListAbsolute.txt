@@ -1,0 +1,11 @@
+C:\repos\TemplateApiProject\src\Infrastructure.Data\bin\Debug\net8.0\TemplateApiProject.Infrastructure.Data.deps.json
+C:\repos\TemplateApiProject\src\Infrastructure.Data\bin\Debug\net8.0\TemplateApiProject.Infrastructure.Data.dll
+C:\repos\TemplateApiProject\src\Infrastructure.Data\bin\Debug\net8.0\TemplateApiProject.Infrastructure.Data.pdb
+C:\repos\TemplateApiProject\src\Infrastructure.Data\obj\Debug\net8.0\TemplateApiProject.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\TemplateApiProject\src\Infrastructure.Data\obj\Debug\net8.0\TemplateApiProject.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\repos\TemplateApiProject\src\Infrastructure.Data\obj\Debug\net8.0\TemplateApiProject.Infrastructure.Data.AssemblyInfo.cs
+C:\repos\TemplateApiProject\src\Infrastructure.Data\obj\Debug\net8.0\TemplateApiProject.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\repos\TemplateApiProject\src\Infrastructure.Data\obj\Debug\net8.0\TemplateApiProject.Infrastructure.Data.dll
+C:\repos\TemplateApiProject\src\Infrastructure.Data\obj\Debug\net8.0\refint\TemplateApiProject.Infrastructure.Data.dll
+C:\repos\TemplateApiProject\src\Infrastructure.Data\obj\Debug\net8.0\TemplateApiProject.Infrastructure.Data.pdb
+C:\repos\TemplateApiProject\src\Infrastructure.Data\obj\Debug\net8.0\ref\TemplateApiProject.Infrastructure.Data.dll

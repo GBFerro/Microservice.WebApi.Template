@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WebApiMS.Template</id>
+    <version>1.0.0</version>
+    <title>Web Api MicroService Template</title>
+    <authors>Gferro</authors>
+    <projectUrl>https://github.com/GBFerro/WebApi.Microservice.Template</projectUrl>
+    <description>A ready-to-use web api microservice template</description>
+    <copyright>Gferro</copyright>
+    <tags>c# api ms</tags>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <repository type="git" url="https://github.com/GBFerro/WebApi.Microservice.Template" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+</package>

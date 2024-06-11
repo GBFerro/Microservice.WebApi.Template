@@ -1,0 +1,12 @@
+C:\repos\TemplateApiProject\src\CrossCutting.Configuration\bin\Debug\net8.0\TemplateApiProject.CrossCutting.Configuration.deps.json
+C:\repos\TemplateApiProject\src\CrossCutting.Configuration\bin\Debug\net8.0\TemplateApiProject.CrossCutting.Configuration.dll
+C:\repos\TemplateApiProject\src\CrossCutting.Configuration\bin\Debug\net8.0\TemplateApiProject.CrossCutting.Configuration.pdb
+C:\repos\TemplateApiProject\src\CrossCutting.Configuration\obj\Debug\net8.0\TemplateApiProject.CrossCutting.Configuration.csproj.AssemblyReference.cache
+C:\repos\TemplateApiProject\src\CrossCutting.Configuration\obj\Debug\net8.0\TemplateApiProject.CrossCutting.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\TemplateApiProject\src\CrossCutting.Configuration\obj\Debug\net8.0\TemplateApiProject.CrossCutting.Configuration.AssemblyInfoInputs.cache
+C:\repos\TemplateApiProject\src\CrossCutting.Configuration\obj\Debug\net8.0\TemplateApiProject.CrossCutting.Configuration.AssemblyInfo.cs
+C:\repos\TemplateApiProject\src\CrossCutting.Configuration\obj\Debug\net8.0\TemplateApiProject.CrossCutting.Configuration.csproj.CoreCompileInputs.cache
+C:\repos\TemplateApiProject\src\CrossCutting.Configuration\obj\Debug\net8.0\TemplateApiProject.CrossCutting.Configuration.dll
+C:\repos\TemplateApiProject\src\CrossCutting.Configuration\obj\Debug\net8.0\refint\TemplateApiProject.CrossCutting.Configuration.dll
+C:\repos\TemplateApiProject\src\CrossCutting.Configuration\obj\Debug\net8.0\TemplateApiProject.CrossCutting.Configuration.pdb
+C:\repos\TemplateApiProject\src\CrossCutting.Configuration\obj\Debug\net8.0\ref\TemplateApiProject.CrossCutting.Configuration.dll

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WebApiMS.Template</id>
+    <version>1.0.0</version>
+    <title>Web Api MicroService Template</title>
+    <authors>Gferro</authors>
+    <projectUrl>https://github.com/GBFerro/WebApi.Microservice.Template</projectUrl>
+    <description>A ready-to-use web api microservice template</description>
+    <copyright>Gferro</copyright>
+    <tags>c# api ms</tags>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <repository type="git" url="https://github.com/GBFerro/WebApi.Microservice.Template" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\repos\TemplateApiProject\src\.template.config\template.json" target="content\src\.template.config\template.json" />
+    <file src="C:\repos\TemplateApiProject\src\.vs\ProjectEvaluation\templateapiproject.api.metadata.v8.bin" target="content\src\.vs\ProjectEvaluation\templateapiproject.api.metadata.v8.bin" />
+    <file src="C:\repos\TemplateApiProject\src\.vs\ProjectEvaluation\templateapiproject.api.projects.v8.bin" target="content\src\.vs\ProjectEvaluation\templateapiproject.api.projects.v8.bin" />
+    <file src="C:\repos\TemplateApiProject\src\.vs\ProjectEvaluation\templateapiproject.api.strings.v8.bin" target="content\src\.vs\ProjectEvaluation\templateapiproject.api.strings.v8.bin" />
+    <file src="C:\repos\TemplateApiProject\src\.vs\TemplateApiProject.Api\config\applicationhost.config" target="content\src\.vs\TemplateApiProject.Api\config\applicationhost.config" />
+    <file src="C:\repos\TemplateApiProject\src\.vs\TemplateApiProject.Api\DesignTimeBuild\.dtbcache.v2" target="content\src\.vs\TemplateApiProject.Api\DesignTimeBuild\.dtbcache.v2" />
+    <file src="C:\repos\TemplateApiProject\src\.vs\TemplateApiProject.Api\FileContentIndex\0f0e9508-28f7-424e-8ede-345b389bd694.vsidx" target="content\src\.vs\TemplateApiProject.Api\FileContentIndex\0f0e9508-28f7-424e-8ede-345b389bd694.vsidx" />
+    <file src="C:\repos\TemplateApiProject\src\.vs\TemplateApiProject.Api\FileContentIndex\807e6379-25dd-4312-8729-84f1788b5b17.vsidx" target="content\src\.vs\TemplateApiProject.Api\FileContentIndex\807e6379-25dd-4312-8729-84f1788b5b17.vsidx" />
+    <file src="C:\repos\TemplateApiProject\src\.vs\TemplateApiProject.Api\FileContentIndex\8f073589-166d-42a8-9dbe-72ac677a560f.vsidx" target="content\src\.vs\TemplateApiProject.Api\FileContentIndex\8f073589-166d-42a8-9dbe-72ac677a560f.vsidx" />
+    <file src="C:\repos\TemplateApiProject\src\.vs\TemplateApiProject.Api\FileContentIndex\903dd781-4491-497f-b6cc-6269cf7f4696.vsidx" target="content\src\.vs\TemplateApiProject.Api\FileContentIndex\903dd781-4491-497f-b6cc-6269cf7f4696.vsidx" />
+    <file src="C:\repos\TemplateApiProject\src\.vs\TemplateApiProject.Api\FileContentIndex\daf8951c-db71-4852-bf7f-cdd45aa13f1c.vsidx" target="content\src\.vs\TemplateApiProject.Api\FileContentIndex\daf8951c-db71-4852-bf7f-cdd45aa13f1c.vsidx" />
+    <file src="C:\repos\TemplateApiProject\src\.vs\TemplateApiProject.Api\v17\.futdcache.v2" target="content\src\.vs\TemplateApiProject.Api\v17\.futdcache.v2" />
+    <file src="C:\repos\TemplateApiProject\src\.vs\TemplateApiProject.Api\v17\.suo" target="content\src\.vs\TemplateApiProject.Api\v17\.suo" />
+    <file src="C:\repos\TemplateApiProject\src\.vs\TemplateApiProject.Api\v17\.wsuo" target="content\src\.vs\TemplateApiProject.Api\v17\.wsuo" />
+    <file src="C:\repos\TemplateApiProject\src\.vs\TemplateApiProject.Api\v17\DocumentLayout.json" target="content\src\.vs\TemplateApiProject.Api\v17\DocumentLayout.json" />
+    <file src="C:\repos\TemplateApiProject\src\Api\appsettings.Development.json" target="content\src\Api\appsettings.Development.json" />
+    <file src="C:\repos\TemplateApiProject\src\Api\appsettings.json" target="content\src\Api\appsettings.json" />
+    <file src="C:\repos\TemplateApiProject\src\Api\Controller\SampleController.cs" target="content\src\Api\Controller\SampleController.cs" />
+    <file src="C:\repos\TemplateApiProject\src\Api\Infrastructure\Bootstrapper.cs" target="content\src\Api\Infrastructure\Bootstrapper.cs" />
+    <file src="C:\repos\TemplateApiProject\src\Api\Program.cs" target="content\src\Api\Program.cs" />
+    <file src="C:\repos\TemplateApiProject\src\Api\Properties\launchSettings.json" target="content\src\Api\Properties\launchSettings.json" />
+    <file src="C:\repos\TemplateApiProject\src\Api\TemplateApiProject.Api.csproj" target="content\src\Api\TemplateApiProject.Api.csproj" />
+    <file src="C:\repos\TemplateApiProject\src\Api\TemplateApiProject.Api.csproj.user" target="content\src\Api\TemplateApiProject.Api.csproj.user" />
+    <file src="C:\repos\TemplateApiProject\src\Api\TemplateApiProject.Api.http" target="content\src\Api\TemplateApiProject.Api.http" />
+    <file src="C:\repos\TemplateApiProject\src\CrossCutting.Configuration\AppSettings.cs" target="content\src\CrossCutting.Configuration\AppSettings.cs" />
+    <file src="C:\repos\TemplateApiProject\src\CrossCutting.Configuration\TemplateApiProject.CrossCutting.Configuration.csproj" target="content\src\CrossCutting.Configuration\TemplateApiProject.CrossCutting.Configuration.csproj" />
+    <file src="C:\repos\TemplateApiProject\src\CrossCutting.Exceptions\BadRequest\Sample.cs" target="content\src\CrossCutting.Exceptions\BadRequest\Sample.cs" />
+    <file src="C:\repos\TemplateApiProject\src\CrossCutting.Exceptions\NotFound\SampleException.cs" target="content\src\CrossCutting.Exceptions\NotFound\SampleException.cs" />
+    <file src="C:\repos\TemplateApiProject\src\CrossCutting.Exceptions\TemplateApiProject.CrossCutting.Exceptions.csproj" target="content\src\CrossCutting.Exceptions\TemplateApiProject.CrossCutting.Exceptions.csproj" />
+    <file src="C:\repos\TemplateApiProject\src\Domain\Command\v1\Sample.cs" target="content\src\Domain\Command\v1\Sample.cs" />
+    <file src="C:\repos\TemplateApiProject\src\Domain\Entities\v1\Sample.cs" target="content\src\Domain\Entities\v1\Sample.cs" />
+    <file src="C:\repos\TemplateApiProject\src\Domain\Interfaces\v1\Sample.cs" target="content\src\Domain\Interfaces\v1\Sample.cs" />
+    <file src="C:\repos\TemplateApiProject\src\Domain\Mapper\v1\Sample.cs" target="content\src\Domain\Mapper\v1\Sample.cs" />
+    <file src="C:\repos\TemplateApiProject\src\Domain\Models\v1\Sample.cs" target="content\src\Domain\Models\v1\Sample.cs" />
+    <file src="C:\repos\TemplateApiProject\src\Domain\ServiceRequest\v1\Sample.cs" target="content\src\Domain\ServiceRequest\v1\Sample.cs" />
+    <file src="C:\repos\TemplateApiProject\src\Domain\ServiceResponse\v1\Sample.cs" target="content\src\Domain\ServiceResponse\v1\Sample.cs" />
+    <file src="C:\repos\TemplateApiProject\src\Domain\Shared\v1\Sample.cs" target="content\src\Domain\Shared\v1\Sample.cs" />
+    <file src="C:\repos\TemplateApiProject\src\Domain\TemplateApiProject.Domain.csproj" target="content\src\Domain\TemplateApiProject.Domain.csproj" />
+    <file src="C:\repos\TemplateApiProject\src\Infrastructure.Data.Query\Mapper\v1\Sample.cs" target="content\src\Infrastructure.Data.Query\Mapper\v1\Sample.cs" />
+    <file src="C:\repos\TemplateApiProject\src\Infrastructure.Data.Query\Query\v1\Sample.cs" target="content\src\Infrastructure.Data.Query\Query\v1\Sample.cs" />
+    <file src="C:\repos\TemplateApiProject\src\Infrastructure.Data.Query\TemplateApiProject.Infrastructure.Data.Query.csproj" target="content\src\Infrastructure.Data.Query\TemplateApiProject.Infrastructure.Data.Query.csproj" />
+    <file src="C:\repos\TemplateApiProject\src\Infrastructure.Data\Class1.cs" target="content\src\Infrastructure.Data\Class1.cs" />
+    <file src="C:\repos\TemplateApiProject\src\Infrastructure.Data\TemplateApiProject.Infrastructure.Data.csproj" target="content\src\Infrastructure.Data\TemplateApiProject.Infrastructure.Data.csproj" />
+    <file src="C:\repos\TemplateApiProject\src\Infrastructure.Service\Class1.cs" target="content\src\Infrastructure.Service\Class1.cs" />
+    <file src="C:\repos\TemplateApiProject\src\Infrastructure.Service\TemplateApiProject.Infrastructure.Service.csproj" target="content\src\Infrastructure.Service\TemplateApiProject.Infrastructure.Service.csproj" />
+    <file src="C:\repos\TemplateApiProject\src\TemplateApiProject.Api.sln" target="content\src\TemplateApiProject.Api.sln" />
+    <file src="C:\repos\TemplateApiProject\src\Tests\TemplateApiProject.Tests.csproj" target="content\src\Tests\TemplateApiProject.Tests.csproj" />
+    <file src="C:\repos\TemplateApiProject\src\Tests\UnitTest1.cs" target="content\src\Tests\UnitTest1.cs" />
+  </files>
+</package>

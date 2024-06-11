@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TemplateApiProject.CrossCutting.Exceptions/1.0.0": {
+        "runtime": {
+          "TemplateApiProject.CrossCutting.Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TemplateApiProject.CrossCutting.Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
